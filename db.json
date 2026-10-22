@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "Configurar Vite",
+      "status": "done"
+    },
+    {
+      "id": "3",
+      "title": "Practicar CRUD",
+      "status": "in_progress"
+    },
+    {
+      "id": "1",
+      "title": "Aprender React",
+      "status": "pending"
+    },
+    {
+      "title": "repasar todo lo aprendido",
+      "status": "pending",
+      "id": "2b4Yfa1SGwI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
